@@ -160,12 +160,87 @@ footer {
 }
 
 .portfolio-image {
-	width: 295px;
+	width: 285px;
+}
+
+.box {
+	position: relative;
+	width: 285px;
+	height: 30px;
+	padding-top: 15px;
+	background-color: #4aaaa5;
+	text-align: center;
+	color: white;
+}
+
+#honu {
+	float: left;
+	width: 285px;
+	height: 213.75px;
+	margin-right: 40px;
+	margin-bottom: 50px;
+}
+
+#honu div {
+	top: -60px;
+}
+
+#napa {
+	float: left;
+	height: 213.75px;
+	width: 285px;
+	margin-bottom: 50px;
+}
+
+#napa div {
+	top: -60px;
+}
+
+#az {
+	float: left;
+	height: 213.75px;
+	width: 285px;
+	margin-right: 40px;
+	margin-bottom: 50px;
+}
+
+#az div {
+	top: -60px;
+}
+
+#lyon {
+	float: left;
+	height: 213.75px;
+	width: 285px;
+	margin-bottom: 50px;
+}
+
+#lyon div {
+	top: -60px;
+}
+
+#usa {
+	float: left;
+	height: 213.75px;
+	width: 285px;
+	margin-right: 40px;
+	margin-bottom: 50px;
+}
+
+#usa div {
+	top: -60px;
+}
+
+
+label {
+	font-size: 16px;
+	/*font-weight: bold;*/
 }
 
 input[type=text] {
 	width: 100%;
-	padding: 5px 20px;
+	height: 30px;
+	padding: 5px 5px;
 	margin-top: 8px;
 	margin-bottom: 16px;
 	box-sizing: border-box;
@@ -182,10 +257,6 @@ input[type=submit] {
 	font-size: 16px;
 }
 
-label {
-	font-size: 15px;
-	font-weight: bold;
-}
 
 #form-message {
 	height: 150px;
