@@ -96,7 +96,14 @@ section {
 #section-container {
 	border-top: 2px solid #dddddd;
 	margin: 0 20px;
-	padding-top: 30px;
+	padding-top: 20px;
+}
+
+#mike-mic {
+	float: left;
+	width: 200px;
+	margin-right: 20px;
+	padding-top: 9px;
 }
 
 .text {
@@ -152,12 +159,6 @@ footer {
 	text-align: center;
 	font-size: 11px;
 	border-top: solid 5px #4aaaa5;
-}
-
-#mike-mic {
-	float: left;
-	width: 200px;
-	margin-right: 20px;
 }
 
 .portfolio-image {
