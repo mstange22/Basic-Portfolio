@@ -171,6 +171,8 @@ footer {
 	background-color: #4aaaa5;
 	text-align: center;
 	color: white;
+	font-size: 18px;
+	font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 #honu {
@@ -182,7 +184,7 @@ footer {
 }
 
 #honu div {
-	top: -60px;
+	top: -55px;
 }
 
 #napa {
@@ -193,7 +195,7 @@ footer {
 }
 
 #napa div {
-	top: -60px;
+	top: -55px;
 }
 
 #az {
@@ -205,7 +207,7 @@ footer {
 }
 
 #az div {
-	top: -60px;
+	top: -55px;
 }
 
 #lyon {
@@ -216,19 +218,17 @@ footer {
 }
 
 #lyon div {
-	top: -60px;
+	top: -55px;
 }
 
 #usa {
 	float: left;
 	height: 213.75px;
 	width: 285px;
-	margin-right: 40px;
-	margin-bottom: 50px;
 }
 
 #usa div {
-	top: -60px;
+	top: -55px;
 }
 
 
