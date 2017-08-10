@@ -102,6 +102,7 @@ section {
 .text {
 	margin-top: 0;
 	line-height: 200%;
+	vertical-align: top;
 }
 
 aside {
@@ -259,6 +260,6 @@ input[type=submit] {
 
 
 #form-message {
-	height: 150px;
+	height: 200px;
 	resize: both;
 }
