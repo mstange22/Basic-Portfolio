@@ -269,6 +269,10 @@ input[type=submit]:hover {
 	background-color: #367c79;
 }
 
+input[type=text]:hover {
+	border: 1px solid #4aaaa5;
+}
+
 #form-message {
 	width: 100%;
 	height: 200px;
@@ -278,4 +282,8 @@ input[type=submit]:hover {
 	box-sizing: border-box;
 	border: 1px solid #dddddd;
 	resize: vertical;
+}
+
+#form-message:hover {
+	border: 1px solid #4aaaa5;
 }
